@@ -1,0 +1,14 @@
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\bin\Debug\netstandard2.0\LeitorCodigoBarra.deps.json
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\bin\Debug\netstandard2.0\LeitorCodigoBarra.dll
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\bin\Debug\netstandard2.0\ref\LeitorCodigoBarra.dll
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\bin\Debug\netstandard2.0\LeitorCodigoBarra.pdb
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\LeitorCodigoBarra.AssemblyInfoInputs.cache
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\LeitorCodigoBarra.AssemblyInfo.cs
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\LeitorCodigoBarra.csproj.CoreCompileInputs.cache
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\LeitorCodigoBarra.dll
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\ref\LeitorCodigoBarra.dll
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\LeitorCodigoBarra.pdb
+C:\GitXamarin\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\LeitorCodigoBarra\obj\Debug\netstandard2.0\LeitorCodigoBarra.csproj.AssemblyReference.cache
